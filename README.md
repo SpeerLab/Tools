@@ -1,3 +1,3 @@
 # Tools
-A small script used for file cleaning can be stored here. 
+A small script used for file cleaning. 
 2020.10.20
